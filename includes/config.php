@@ -1,8 +1,8 @@
 <?php 
 // DB credentials.
-define('AZURE_MYSQL_HOST','localhost');
-define('AZURE_MYSQL_USERNAME','root');
-define('AZURE_MYSQL_PASSWORD','');
+define('AZURE_MYSQL_HOST','aislibrarywebpage-server.mysql.database.azure.com');
+define('AZURE_MYSQL_USERNAME','daqzrclbpt');
+define('AZURE_MYSQL_PASSWORD','S5SZTZS6TU78ZC0T$');
 define('DB_NAME','library');
 // Establish database connection.
 try
